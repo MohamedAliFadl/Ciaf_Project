@@ -1,0 +1,25 @@
+.page-heading-about {
+    text-align: center;
+    background-image: url(../../images//page-heading-about.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 230px 0px 180px 0px;
+    color: #fff;
+}
+
+.page-heading-about h1 {
+    text-transform: capitalize;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-bottom: 18px;
+}
+
+.page-heading-about span {
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #fff;
+    display: block;
+}
