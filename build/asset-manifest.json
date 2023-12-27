@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Ciaf_Project/static/css/main.f85a13d7.css",
+    "main.js": "/Ciaf_Project/static/js/main.6d75810b.js",
+    "static/media/slide_022.jpg": "/Ciaf_Project/static/media/slide_022.d28238d21598c0bb242c.jpg",
+    "static/media/slide_011.jpg": "/Ciaf_Project/static/media/slide_011.2d59af8acb7f321b4933.jpg",
+    "static/media/page-headiing-finance.jpg": "/Ciaf_Project/static/media/page-headiing-finance.d83f051f13dd00b3c7ec.jpg",
+    "static/media/Yehia Esmail.jpg": "/Ciaf_Project/static/media/Yehia Esmail.a7abb65bd3e931d09d35.jpg",
+    "static/media/smart.jpg": "/Ciaf_Project/static/media/smart.497cb7b03e8748fbdfd9.jpg",
+    "static/media/slide_03.jpg": "/Ciaf_Project/static/media/slide_03.01cdceb5fc44f35c3cbc.jpg",
+    "static/media/slide_01.jpg": "/Ciaf_Project/static/media/slide_01.200c324135acf00102c3.jpg",
+    "static/media/leasing.jpg": "/Ciaf_Project/static/media/leasing.6559ad437355ca941792.jpg",
+    "static/media/Mohamed Mohei El-din.jpg": "/Ciaf_Project/static/media/Mohamed Mohei El-din.8cb2db316e8845859ca3.jpg",
+    "static/media/page-heading-bg.jpg": "/Ciaf_Project/static/media/page-heading-bg.44c374afc43e838a8fb9.jpg",
+    "static/media/Hesham Hallouda.jpg": "/Ciaf_Project/static/media/Hesham Hallouda.605c130433825c830708.jpg",
+    "static/media/fun-facts-bg.jpg": "/Ciaf_Project/static/media/fun-facts-bg.12a13b4ca23ea0436a08.jpg",
+    "static/media/CIAf_Logo2.png": "/Ciaf_Project/static/media/CIAf_Logo2.75fb7d0af760cd6e83aa.png",
+    "static/media/Mahmoud El-Sakka.jpg": "/Ciaf_Project/static/media/Mahmoud El-Sakka.9963abf8aa93e38f4969.jpg",
+    "static/media/Mohamed Heiba.jpg": "/Ciaf_Project/static/media/Mohamed Heiba.4c0aad9d032345912dc7.jpg",
+    "static/media/team_02.jpg": "/Ciaf_Project/static/media/team_02.d48d2a0175e86a4a83ed.jpg",
+    "static/media/page-heading-about.jpg": "/Ciaf_Project/static/media/page-heading-about.36b94b6dcb955deea887.jpg",
+    "static/media/team_01.jpg": "/Ciaf_Project/static/media/team_01.5b582e08daa454da30f6.jpg",
+    "static/media/team_03.jpg": "/Ciaf_Project/static/media/team_03.2c91e28e25e91246e0ac.jpg",
+    "static/media/Ciaf Health Care.jpg": "/Ciaf_Project/static/media/Ciaf Health Care.d428c7f2b59eba71fe8c.jpg",
+    "index.html": "/Ciaf_Project/index.html",
+    "main.f85a13d7.css.map": "/Ciaf_Project/static/css/main.f85a13d7.css.map",
+    "main.6d75810b.js.map": "/Ciaf_Project/static/js/main.6d75810b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f85a13d7.css",
+    "static/js/main.6d75810b.js"
+  ]
+}
